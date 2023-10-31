@@ -1,5 +1,5 @@
-package nz.co.gps.pages;
-import static nz.co.gps.steps.Hooks.*;
+package pages;
+import static steps.Hooks.*;
 
 public class HomePage extends Header{
 

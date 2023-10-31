@@ -1,4 +1,4 @@
-package nz.co.gps.pages;
+package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import static nz.co.gps.steps.Hooks.driver;
+import static steps.Hooks.driver;
 import static framework.lib.HelperMethods.*;
 
 public class ShopPage extends Header {

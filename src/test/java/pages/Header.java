@@ -1,9 +1,9 @@
-package nz.co.gps.pages;
+package pages;
 
 import org.openqa.selenium.By;
 
 import static framework.lib.HelperMethods.sleep;
-import static nz.co.gps.steps.Hooks.driver;
+import static steps.Hooks.driver;
 
 public abstract class Header {
 

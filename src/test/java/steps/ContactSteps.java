@@ -1,9 +1,9 @@
-package nz.co.gps.steps;
+package steps;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
-import nz.co.gps.pages.ContactPage;
-import nz.co.gps.pages.HomePage;
+import pages.ContactPage;
+import pages.HomePage;
 import org.junit.Assert;
 import java.util.Map;
 

@@ -1,4 +1,4 @@
-package nz.co.gps.pages;
+package pages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -8,7 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import java.util.HashMap;
 import java.util.Map;
 
-import static nz.co.gps.steps.Hooks.driver;
+import static steps.Hooks.driver;
 import static framework.lib.HelperMethods.*;
 
 public class ContactPage extends Header {

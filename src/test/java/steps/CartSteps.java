@@ -1,9 +1,9 @@
-package nz.co.gps.steps;
+package steps;
 
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.en.*;
-import nz.co.gps.pages.CartPage;
-import nz.co.gps.pages.ShopPage;
+import pages.CartPage;
+import pages.ShopPage;
 import org.junit.Assert;
 
 import java.text.DecimalFormat;
